@@ -1,9 +1,9 @@
 # ninja log v7
-4	323	8048654784983916	build.ninja	acbe80071ae789a3
-4	323	8048654784794022	C:/project/GameEngine/build/cmake_install.cmake	acbe80071ae789a3
-4	323	8048654784834004	C:/project/GameEngine/build/glfw/cmake_install.cmake	acbe80071ae789a3
-4	323	8048654784873976	C:/project/GameEngine/build/glfw/src/cmake_install.cmake	acbe80071ae789a3
-4	323	8048654784893965	C:/project/GameEngine/build/glfw/docs/cmake_install.cmake	acbe80071ae789a3
+4	377	8048657479503206	build.ninja	acbe80071ae789a3
+4	377	8048657479313424	C:/project/GameEngine/build/cmake_install.cmake	acbe80071ae789a3
+4	377	8048657479353403	C:/project/GameEngine/build/glfw/cmake_install.cmake	acbe80071ae789a3
+4	377	8048657479393345	C:/project/GameEngine/build/glfw/src/cmake_install.cmake	acbe80071ae789a3
+4	377	8048657479413186	C:/project/GameEngine/build/glfw/docs/cmake_install.cmake	acbe80071ae789a3
 19	1942	8043610601383951	glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	329cdb0b10b882e2
 50	1964	8043610601693771	glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	5a7241f725739a2c
 27	1971	8043610601443911	glfw/src/CMakeFiles/glfw.dir/platform.c.obj	d3362ab6c24e2956
@@ -35,13 +35,13 @@
 8	1183	8046794985206467	CMakeFiles/glad.dir/glad/src/glad.c.obj	6052d3d744cfd54d
 1184	1275	8046794996947764	libglad.a	dd9cbc36c343dcd5
 7	4272	8048592894415544	glm/glm/CMakeFiles/glm.dir/detail/glm.cpp.obj	7cd382b2f09fcbe6
-4	323	8048654784903963	C:/project/GameEngine/build/glm/cmake_install.cmake	acbe80071ae789a3
-4	323	8048654784933941	C:/project/GameEngine/build/glm/glm/cmake_install.cmake	acbe80071ae789a3
+4	377	8048657479423239	C:/project/GameEngine/build/glm/cmake_install.cmake	acbe80071ae789a3
+4	377	8048657479453262	C:/project/GameEngine/build/glm/glm/cmake_install.cmake	acbe80071ae789a3
 13	233	8048593865341506	glm/glm/libglm.a	c67d9cffc7189fdd
-4	377	8048654784983916	build.ninja	acbe80071ae789a3
-4	377	8048654784983916	C:/project/GameEngine/build/cmake_install.cmake	acbe80071ae789a3
-4	377	8048654784983916	C:/project/GameEngine/build/glfw/cmake_install.cmake	acbe80071ae789a3
-4	377	8048654784983916	C:/project/GameEngine/build/glfw/src/cmake_install.cmake	acbe80071ae789a3
-4	377	8048654784983916	C:/project/GameEngine/build/glfw/docs/cmake_install.cmake	acbe80071ae789a3
-4	377	8048654784983916	C:/project/GameEngine/build/glm/cmake_install.cmake	acbe80071ae789a3
-4	377	8048654784983916	C:/project/GameEngine/build/glm/glm/cmake_install.cmake	acbe80071ae789a3
+4	369	8048657479503206	build.ninja	acbe80071ae789a3
+4	369	8048657479503206	C:/project/GameEngine/build/cmake_install.cmake	acbe80071ae789a3
+4	369	8048657479503206	C:/project/GameEngine/build/glfw/cmake_install.cmake	acbe80071ae789a3
+4	369	8048657479503206	C:/project/GameEngine/build/glfw/src/cmake_install.cmake	acbe80071ae789a3
+4	369	8048657479503206	C:/project/GameEngine/build/glfw/docs/cmake_install.cmake	acbe80071ae789a3
+4	369	8048657479503206	C:/project/GameEngine/build/glm/cmake_install.cmake	acbe80071ae789a3
+4	369	8048657479503206	C:/project/GameEngine/build/glm/glm/cmake_install.cmake	acbe80071ae789a3
